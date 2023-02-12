@@ -51,3 +51,11 @@
 ![image](https://user-images.githubusercontent.com/61791877/218320057-e94e04da-08b0-4ab6-bfbc-88b7fb8a406d.png)
 
 ![image](https://user-images.githubusercontent.com/61791877/218320173-205b76d6-95c2-46df-a0b4-eb64c02ca39c.png)
+
+## Producer Acknowledgements & Topic Durability
+
+![image](https://user-images.githubusercontent.com/61791877/218323750-66979a7d-4e51-4500-9e0a-3dffe69138ce.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218323896-de48ef86-3ff7-4d24-8f6d-2c45621c9fd2.png)
+
+
