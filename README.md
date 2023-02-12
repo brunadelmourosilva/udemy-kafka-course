@@ -33,3 +33,21 @@
 ![image](https://user-images.githubusercontent.com/61791877/218319381-c33008e0-e371-440f-9e83-53c9fa4519ef.png)
 
 ![image](https://user-images.githubusercontent.com/61791877/218319427-63e01404-9cd8-4d8e-b2d9-e55f298677bd.png)
+
+## Brokers and topics
+
+![image](https://user-images.githubusercontent.com/61791877/218319619-e0959a61-3ee9-47f4-8153-8df6bc5153a6.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218319689-1efb45d0-0395-45f9-89a8-541a84f423aa.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218319804-01f003b1-c82b-4a9b-96b3-72a48d72d430.png)
+
+## Topic replication
+
+![image](https://user-images.githubusercontent.com/61791877/218319959-d250604f-ebd2-4189-82e8-e1a4d5c84fde.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218319976-f9bb557f-119a-4ec8-996d-0778fda4cfb8.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218320057-e94e04da-08b0-4ab6-bfbc-88b7fb8a406d.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218320173-205b76d6-95c2-46df-a0b4-eb64c02ca39c.png)
