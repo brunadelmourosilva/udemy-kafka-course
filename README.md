@@ -25,3 +25,11 @@
 ![image](https://user-images.githubusercontent.com/61791877/218317573-5700c728-279b-4934-bba9-542674e3c0a8.png)
 
 ![image](https://user-images.githubusercontent.com/61791877/218317762-26c54261-0f8a-402f-95cb-3301645f40fd.png)
+
+## Consumer groups and consumer offsets
+
+![image](https://user-images.githubusercontent.com/61791877/218318959-a0def46d-d9d0-4ac3-b30a-5c5272697a18.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218319381-c33008e0-e371-440f-9e83-53c9fa4519ef.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218319427-63e01404-9cd8-4d8e-b2d9-e55f298677bd.png)
