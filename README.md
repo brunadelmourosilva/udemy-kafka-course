@@ -58,4 +58,14 @@
 
 ![image](https://user-images.githubusercontent.com/61791877/218323896-de48ef86-3ff7-4d24-8f6d-2c45621c9fd2.png)
 
+## Zookeper
+
+![image](https://user-images.githubusercontent.com/61791877/218324253-0f08e37a-2bf8-4405-bef4-60b67ec52c7c.png)
+
+![image](https://user-images.githubusercontent.com/61791877/218324395-4b17c989-3c57-4e0b-84f0-bb07658a6a6a.png)
+
+## Kafka Kraft
+
+![image](https://user-images.githubusercontent.com/61791877/218324554-35895a16-4966-47d1-83b5-1f171741f2dd.png)
+
 
