@@ -68,4 +68,8 @@
 
 ![image](https://user-images.githubusercontent.com/61791877/218324554-35895a16-4966-47d1-83b5-1f171741f2dd.png)
 
+---
 
+## Using Apache Kafka on the cloud
+
+https://www.conduktor.io/get-started#cloud
